@@ -1,0 +1,73 @@
+{
+  "modules": {
+    "byIdentifier": {
+      "../../../../../Enos Muguku\\node_modules\\babel-loader\\lib\\index.js!../../../../../Enos Muguku\\Desktop\\react365\\react365\\start-here\\src\\index.js": 0,
+      "../../../../../Enos Muguku\\Desktop\\react365\\react365\\start-here\\node_modules\\process\\browser.js": 1,
+      "../../../../../Enos Muguku\\Desktop\\react365\\react365\\start-here\\node_modules\\fbjs\\lib\\emptyFunction.js": 2,
+      "../../../../../Enos Muguku\\Desktop\\react365\\react365\\start-here\\node_modules\\object-assign\\index.js": 3,
+      "../../../../../Enos Muguku\\Desktop\\react365\\react365\\start-here\\node_modules\\fbjs\\lib\\emptyObject.js": 4,
+      "../../../../../Enos Muguku\\Desktop\\react365\\react365\\start-here\\node_modules\\react\\index.js": 5,
+      "../../../../../Enos Muguku\\Desktop\\react365\\react365\\start-here\\node_modules\\fbjs\\lib\\invariant.js": 6,
+      "../../../../../Enos Muguku\\Desktop\\react365\\react365\\start-here\\node_modules\\fbjs\\lib\\warning.js": 7,
+      "../../../../../Enos Muguku\\Desktop\\react365\\react365\\start-here\\node_modules\\prop-types\\checkPropTypes.js": 8,
+      "../../../../../Enos Muguku\\Desktop\\react365\\react365\\start-here\\node_modules\\fbjs\\lib\\ExecutionEnvironment.js": 9,
+      "../../../../../Enos Muguku\\Desktop\\react365\\react365\\start-here\\node_modules\\fbjs\\lib\\EventListener.js": 10,
+      "../../../../../Enos Muguku\\Desktop\\react365\\react365\\start-here\\node_modules\\fbjs\\lib\\getActiveElement.js": 11,
+      "../../../../../Enos Muguku\\Desktop\\react365\\react365\\start-here\\node_modules\\fbjs\\lib\\shallowEqual.js": 12,
+      "../../../../../Enos Muguku\\Desktop\\react365\\react365\\start-here\\node_modules\\fbjs\\lib\\containsNode.js": 13,
+      "../../../../../Enos Muguku\\Desktop\\react365\\react365\\start-here\\node_modules\\fbjs\\lib\\focusNode.js": 14,
+      "../../../../../Enos Muguku\\Desktop\\react365\\react365\\start-here\\node_modules\\react\\cjs\\react.production.min.js": 15,
+      "../../../../../Enos Muguku\\Desktop\\react365\\react365\\start-here\\node_modules\\react\\cjs\\react.development.js": 16,
+      "../../../../../Enos Muguku\\Desktop\\react365\\react365\\start-here\\node_modules\\prop-types\\lib\\ReactPropTypesSecret.js": 17,
+      "../../../../../Enos Muguku\\Desktop\\react365\\react365\\start-here\\node_modules\\react-dom\\index.js": 18,
+      "../../../../../Enos Muguku\\Desktop\\react365\\react365\\start-here\\node_modules\\react-dom\\cjs\\react-dom.production.min.js": 19,
+      "../../../../../Enos Muguku\\Desktop\\react365\\react365\\start-here\\node_modules\\fbjs\\lib\\isTextNode.js": 20,
+      "../../../../../Enos Muguku\\Desktop\\react365\\react365\\start-here\\node_modules\\fbjs\\lib\\isNode.js": 21,
+      "../../../../../Enos Muguku\\Desktop\\react365\\react365\\start-here\\node_modules\\react-dom\\cjs\\react-dom.development.js": 22,
+      "../../../../../Enos Muguku\\Desktop\\react365\\react365\\start-here\\node_modules\\fbjs\\lib\\hyphenateStyleName.js": 23,
+      "../../../../../Enos Muguku\\Desktop\\react365\\react365\\start-here\\node_modules\\fbjs\\lib\\hyphenate.js": 24,
+      "../../../../../Enos Muguku\\Desktop\\react365\\react365\\start-here\\node_modules\\fbjs\\lib\\camelizeStyleName.js": 25,
+      "../../../../../Enos Muguku\\Desktop\\react365\\react365\\start-here\\node_modules\\fbjs\\lib\\camelize.js": 26,
+      "../../../../../Enos Muguku\\node_modules\\babel-loader\\lib\\index.js!../../../../../Enos Muguku\\Desktop\\react365\\react365\\start-here\\src\\components\\app.js": 27
+    },
+    "usedIds": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5,
+      "6": 6,
+      "7": 7,
+      "8": 8,
+      "9": 9,
+      "10": 10,
+      "11": 11,
+      "12": 12,
+      "13": 13,
+      "14": 14,
+      "15": 15,
+      "16": 16,
+      "17": 17,
+      "18": 18,
+      "19": 19,
+      "20": 20,
+      "21": 21,
+      "22": 22,
+      "23": 23,
+      "24": 24,
+      "25": 25,
+      "26": 26,
+      "27": 27
+    }
+  },
+  "chunks": {
+    "byName": {
+      "main": 0
+    },
+    "byBlocks": {},
+    "usedIds": {
+      "0": 0
+    }
+  }
+}
