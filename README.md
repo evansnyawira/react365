@@ -4,7 +4,7 @@ This repository in a journal to track my self-taught self-paced learning of Reac
 
 ## In The Beginning
 
-So first you need some background on Nodejs MongoDB and javascript(obviously) luckily for me I have them installed on my Debian(Debian 9) system (the latest versions of them all!). I have been learning javascript on the Node REPL for three years now(tonnes of exciting things to learn you can start here https://jscomplete.com/ or go to their repository at https://github.com/jscomplete (i will be a frequent of these sites just to make sure am doing everything like everyone else)
+So first you need some background on Nodejs MongoDB and javascript(obviously) luckily for me I have them installed on my Debian(Debian 9) system (the latest versions of them all!). I have been learning javascript on the Node REPL for three years now(tonnes of exciting things to learn you can start here [jscomplete](https://jscomplete.com/) or go to their repository at [jscomplete](https://github.com/jscomplete) (i will be a frequent of these sites just to make sure am doing everything like everyone else)
 
 ## Prerequisite
 
