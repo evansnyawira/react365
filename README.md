@@ -56,3 +56,6 @@ yarn add --dev webpack babel-cli babel-preset-env babel-preset-react
 
 that's all, for now, we can soon start to get our hands dirty 
 
+# setting up the project 
+use the start-here readme for the intoductory part of this project
+
